@@ -19,7 +19,7 @@ TODO: Detail pages for subjects like debugging, async.
 | Feature | CP | PJS | SJS | Remarks |
 | :--- | :---: | :---: | :---: | :--- |
 | JS Runtime | bytecode | JS code | JS code |  |
-| Modular image |  |  | - |  |
+| Modular image |  |  | + |  |
 | JS low-level performance | - | +? | - |  |
 
 ### Smalltalk core library
