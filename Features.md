@@ -36,6 +36,7 @@ Remarks:
 | :--- | :---: | :---: | :---: | :--- |
 | ST number hierarchy | +(1) |  | + | Including: LargeInteger, Float, Fraction |
 | JS or ST library standard | ST |  | JS |  Uses JS or ST 'standard' classes and method names  |
+| BlockClosure | + |   |   | Full Block closure including non-local returns |
 | Context | + |   |   | Support for `thisContext` and other execution Context instances |
 | Process | + |  |   | Execute code in own Process |
 | Reflection | + |   |   | Full Object inspection/modification |
